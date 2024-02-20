@@ -1,0 +1,69 @@
+Quartus Prime Archive log --	C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/SiftahProj.qarlog
+
+Archive:	C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/SiftahProj.qar
+Date:		Tue Feb 20 18:37:44 2024
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Backups/TOP_VGA_DEMO_KBD_original.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5.cmp
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5.qip
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5.sip
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5.spd
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5/CLK_31P5_0002.qip
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5/CLK_31P5_0002.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/CLK_31P5_sim/CLK_31P5.vo
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/DE10_Standard_Audio.sdc
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/KBDINTF.qxp
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Lab1Demo.qpf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Lab1Demo.qsf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Lab1Demo_assignment_defaults.qdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Number_position.bsf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Number_position.qip
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Number_position.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/Number_position_bb.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/AUDIO.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/SinTable.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/TOP_AUDIO.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/ToneDecoder.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/addr_counter.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/audio_codec_controller/DualSerial2parallel.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/audio_codec_controller/audio_codec_controller.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/audio_codec_controller/clock_500.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/audio_codec_controller/i2c.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/AUDIO/prescaler.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/KEYBOARDX/TOP_KBD.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/KEYBOARDX/keyPad_decoder.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/KEYBOARDX/random.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/KEYBOARDX/simple_up_counter.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/Seg7/SEG7.SV
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/HART_DISPLAY.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/HartsMatrixBitMap.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/NumbersBitMap.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/Smiley_Block_T.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/TOP_VGA_DEMO_KBD.bdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/VGA_Controller.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/back_ground_draw.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/game_controller.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/objects_mux.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/smileyBitMap.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/smiley_move.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/square_Hart_object.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/square_object.sv
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/valX.bsf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/valX.qip
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/valX.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/valX_bb.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA/valX_inst.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/RTL/VGA_BG.mif
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/assignment_defaults.qdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/constraints/DE10_Standard_Audio.sdc
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/constraints/pin.tcl
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/matrix_top_xy.v
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/output_files/Chain1.cdf
+C:/Users/segev/Documents/Technion/Semester_3/EEELab01/lab_projects/vga/Lab1VGADemo_WKBD_restored/output_files/stp1.stp
+	======= Total: 58 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
